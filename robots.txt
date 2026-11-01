@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orcoorco.github.io/daily-facts-portal/sitemap.xml
